@@ -1,4 +1,4 @@
-Traveler, built with ASP.NET Web API and a layered architecture (Controllers, BLL, DTOs) to manage travel-related services.
+Traveler, built with ASP.NET Web API, Microsoft SQL Server, a layered architecture (Controllers, BLL, DTOs) to manage travel-related services.
 
 Key Features:
 1. Retrieve all available tour packages.
